@@ -2,12 +2,25 @@
 
 body{
 
-	  background: url('https://duckduckgo.com/?q=tracks+&t=ha&iax=images&ia=images&iai=http%3A%2F%2Fddydc3qiky-flywheel.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F10%2F1-train-tracks-unsolved-mysteries-1200x797.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+	  background: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fddydc3qiky-flywheel.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F10%2F1-train-tracks-unsolved-mysteries-1200x797.jpg&f=1&nofb=1);
+      background-repeat: no-repeat;
+  background-size:1600px;
+	
+	color:white;
+	background-position: center;
+
+	background-color: black;
+	
+
+}
+.one{
+	padding-top:-100px;
 	text-align: center;
-	color:black;
+}
+.two{
+	text-orientation:right;
+     
+	text-align: center;
 }
 .only{
 	color:lightblue;
@@ -27,12 +40,16 @@ body{
 	
 }
 .teal{
-	    width:2000px;
+	    width:1650px;
 	height:60px;
+	margin-left: -30%;
 	background-color: #008080;
+	
 	text-align: center;
 }
-
+h3{
+	padding-right:-30%;
+}
 img{
 	margin-left:-30%;
 	margin-top: 20%;
@@ -40,17 +57,20 @@ img{
 hr{
 	color:white;
 }
-h4{
+h3{
 	font-style: bold;
 }
 footer{
-	width:1522px;
+	width:1700px;
 	height:100px;
+	
 	background-color: black;
+	margin-top: 20px;
 }
 .foot{
-	padding-left:10px;
+	
 
+    text-align: left;
 	color:grey;
 }
 .mail{
