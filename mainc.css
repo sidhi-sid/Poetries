@@ -1,5 +1,15 @@
+body{
+	 background-image: url('https://duckduckgo.com/?q=english+poetry+website&t=hr&iar=images&iax=images&ia=images&iai=http%3A%2F%2Fcarleton.ca%2Fcreativewriting%2Fwp-content%2Fuploads%2FPoetry.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+	background-size: cover;
+}
+
+
+
 .p{
-	border:50px;
+	border:70px;
 	border-style: solid;
 	border-color: white;
 }
@@ -23,12 +33,13 @@
             border-radius: 50px;
             background: orange;
             align-items: center;
-
+            
 }
 
 h2{
 	margin-left:50px;
 	margin-top: -82px;
+	margin-right:60px;
 	font-size: 50px;
 	text-align: center;
 	font-family: "Arial";

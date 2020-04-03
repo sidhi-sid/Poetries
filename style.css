@@ -1,8 +1,13 @@
 
 
 body{
-	background:grey;
-	color:white;
+
+	  background: url('https://duckduckgo.com/?q=tracks+&t=ha&iax=images&ia=images&iai=http%3A%2F%2Fddydc3qiky-flywheel.netdna-ssl.com%2Fwp-content%2Fuploads%2F2016%2F10%2F1-train-tracks-unsolved-mysteries-1200x797.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+	text-align: center;
+	color:black;
 }
 .only{
 	color:lightblue;
@@ -21,10 +26,34 @@ body{
 	color:grey;
 	
 }
+.teal{
+	    width:2000px;
+	height:60px;
+	background-color: #008080;
+	text-align: center;
+}
+
 img{
 	margin-left:-30%;
 	margin-top: 20%;
 }
 hr{
 	color:white;
+}
+h4{
+	font-style: bold;
+}
+footer{
+	width:1522px;
+	height:100px;
+	background-color: black;
+}
+.foot{
+	padding-left:10px;
+
+	color:grey;
+}
+.mail{
+	padding-left:200px;
+	color:lightblue;
 }
