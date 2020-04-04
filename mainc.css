@@ -1,9 +1,11 @@
-  body{background-image:url('https://giantsandpilgrims.com/wp-content/uploads/2017/03/pick-a-poem-sign.jpg');
-  background-repeat: no-repeat;
-  position-left: -20px;
-  background-position: left;
-  background-blend-mode: hard-light;
-	background-size:350px;
+  body{ background: url(https://giantsandpilgrims.com/wp-content/uploads/2017/03/pick-a-poem-sign.jpg);
+      background-repeat: no-repeat;
+  
+ background-position:1100px 350px;
+ backface-visibility: 0.5;
+ 
+  background-blend-mode: saturation;
+	background-size:280px;
     
   	
             }
@@ -22,21 +24,22 @@
     margin-top: -136px;
     margin-left: 80px;
    
-    width:1300px;
+    width:1242px;
 	height:120px;
 	background-color: #008080;
     
 	font-family:"Trebuchet";
 }
 .one,.two,.three,.four{
-	border-left: 100px;
+
+	
 	 width: 100px;
             height: 100px;
             -webkit-border-radius: 100px;
             -moz-border-radius: 100px;
             border-radius: 50px;
             background: orange;
-            align-items:right;
+            
 
            
 }
@@ -44,12 +47,13 @@
 h2{
 	margin-left:50px;
 	margin-top: -82px;
-	margin-right:20px;
+	margin-right:250px;
 	font-size: 50px;
-	text-align: center;
+	text-align: left;
 	font-family: "Arial";
 	color: black;
 	border: 2px;
+	
 	border-style: solid;
 	border-color: blue;
 }
@@ -58,12 +62,13 @@ a{
 }
 
 footer{
+	border-right:80px;
 	width:1522px;
 	height:100px;
 	background-color: black;
 }
 .foot{
-	padding-left:10px;
+	padding-left:20px;
 
 	color:grey;
 }
