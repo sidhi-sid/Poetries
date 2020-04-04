@@ -1,16 +1,19 @@
-body{
-	 background-image: url('https://duckduckgo.com/?q=english+poetry+website&t=hr&iar=images&iax=images&ia=images&iai=http%3A%2F%2Fcarleton.ca%2Fcreativewriting%2Fwp-content%2Fuploads%2FPoetry.jpg');
+  body{background-image:url('https://giantsandpilgrims.com/wp-content/uploads/2017/03/pick-a-poem-sign.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
-
-	background-size: cover;
-}
+  position-left: -20px;
+  background-position: left;
+  background-blend-mode: hard-light;
+	background-size:350px;
+    
+  	
+            }
 
 
 
 .p{
-	border:70px;
-	border-style: solid;
+	border-top:70px;
+	
+		border-style: solid;
 	border-color: white;
 }
 
@@ -18,7 +21,7 @@ body{
     font-size: 120px;
     margin-top: -136px;
     margin-left: 80px;
-
+   
     width:1300px;
 	height:120px;
 	background-color: #008080;
@@ -26,23 +29,26 @@ body{
 	font-family:"Trebuchet";
 }
 .one,.two,.three,.four{
+	border-left: 100px;
 	 width: 100px;
             height: 100px;
-            -webkit-border-radius: 50px;
-            -moz-border-radius: 50px;
+            -webkit-border-radius: 100px;
+            -moz-border-radius: 100px;
             border-radius: 50px;
             background: orange;
-            align-items: center;
-            
+            align-items:right;
+
+           
 }
 
 h2{
 	margin-left:50px;
 	margin-top: -82px;
-	margin-right:60px;
+	margin-right:20px;
 	font-size: 50px;
 	text-align: center;
 	font-family: "Arial";
+	color: black;
 	border: 2px;
 	border-style: solid;
 	border-color: blue;
