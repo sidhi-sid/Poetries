@@ -1,0 +1,97 @@
+body{
+
+	  background: url(https://ae01.alicdn.com/kf/HTB11oNaX._rK1Rjy0Fcq6zEvVXaW/abstract-woman-silhouette-PQT209-fabric-poster-custom-print-for-wall-art-room-decor-home-decoration-frame.jpg);
+      background-repeat: no-repeat;
+  
+     background-size: 1500px;
+	background-position:44% 15%;
+	margin-top: 250px;
+
+    
+	color:black;
+	background-color: black;
+}
+.one{
+	padding-top:-100px;
+	text-align: left;
+	position: relative;
+	left:-70px;
+	top:-190px;
+
+	
+}
+.two{
+	
+	position: relative;
+	top:-1000px;
+right:100px;
+	text-align: right;}
+.only{
+	color:black;
+}
+.red{
+
+	padding-left: 20px;
+	padding-right: 20px;
+    margin-right: 150px;
+margin-top:-230px;
+  margin-left: -10px;
+	height:40px;
+	background-color:white;
+	float:right;
+}
+
+.only:hover{
+	color:grey;
+	
+}
+.teal{
+	padding-top: 10px;
+	margin-bottom: 150px;
+	margin-top: -220px;
+	    width:1545px;
+	height:60px;
+			
+	margin-left: -230px;
+	background-color: #008080;
+	
+	text-align: center;
+}
+h3{
+	padding-right:-30%;
+}
+img{
+	margin-left:-30%;
+	margin-top: 20%;
+}
+hr{
+	color:white;
+}
+h3{
+	font-style: bold;
+}
+footer{
+	width:1520px;
+	height:100px;
+	margin-top:-100px;
+	
+
+	background-color: grey;
+	
+
+	
+}
+.foot{
+	
+    padding-left: 10px;
+    text-align: left;
+	color:black;
+}
+a{
+	color:blue;
+}
+.mail{
+	padding-left:200px;
+	color:black;
+
+}
