@@ -1,7 +1,7 @@
   body{ background: url(https://giantsandpilgrims.com/wp-content/uploads/2017/03/pick-a-poem-sign.jpg);
       background-repeat: no-repeat;
   
- background-position:1100px 350px;
+ background-position:1000px 330px;
  backface-visibility: 0.5;
  
   background-blend-mode: saturation;
@@ -49,19 +49,19 @@ h2{
 	margin-top: -82px;
 	margin-right:250px;
 	font-size: 50px;
+	padding-left: 50px;
 	text-align: left;
-	font-family: "Arial";
-	color: black;
-	border: 2px;
+	font-family: "Cookie";
+	color: black;}
 	
-	border-style: solid;
-	border-color: blue;
-}
 a{
 	font-style: none;
 }
 
+
 footer{
+
+	border-bottom: 100px;
 	border-right:80px;
 	width:1522px;
 	height:100px;
