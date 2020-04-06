@@ -1,31 +1,36 @@
 body{
 
-	  background: url(https://ae01.alicdn.com/kf/HTB11oNaX._rK1Rjy0Fcq6zEvVXaW/abstract-woman-silhouette-PQT209-fabric-poster-custom-print-for-wall-art-room-decor-home-decoration-frame.jpg);
-      background-repeat: no-repeat;
-  
-     background-size: 1500px;
-	background-position:44% 15%;
-	margin-top: 250px;
-
-    
-	color:black;
+	background: url(https://ae01.alicdn.com/kf/HTB11oNaX._rK1Rjy0Fcq6zEvVXaW/abstract-woman-silhouette-PQT209-fabric-poster-custom-print-for-wall-art-room-decor-home-decoration-frame.jpg);
+    background-repeat:no-repeat; 
+    background-size: 1000px;
+	background-position:54% 45%;
+	margin-top: 250px;	
 	background-color: black;
+
 }
 .one{
 	padding-top:-100px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	padding-right: -300px;
 	text-align: left;
+	width:400px;
+	background-color:#d3d3d3;
 	position: relative;
-	left:-70px;
-	top:-190px;
-
-	
+	left:-200px;
+	top:-125px;
 }
 .two{
-	
+	width:400px;
+	background-color:#d3d3d3;
+	padding-right: 15px;
+	padding-bottom:10px;
+	padding-top: 10px; 
+	text-align: right;
 	position: relative;
-	top:-1000px;
-right:100px;
-	text-align: right;}
+	top:-125px;
+    right:-345px;
+	}
 .only{
 	color:black;
 }
@@ -51,7 +56,7 @@ margin-top:-230px;
 	margin-top: -220px;
 	    width:1545px;
 	height:60px;
-			
+			color:white;
 	margin-left: -230px;
 	background-color: #008080;
 	
@@ -60,10 +65,7 @@ margin-top:-230px;
 h3{
 	padding-right:-30%;
 }
-img{
-	margin-left:-30%;
-	margin-top: 20%;
-}
+
 hr{
 	color:white;
 }
@@ -73,14 +75,11 @@ h3{
 footer{
 	width:1520px;
 	height:100px;
-	margin-top:-100px;
 	
-
 	background-color: grey;
-	
-
-	
+		
 }
+
 .foot{
 	
     padding-left: 10px;
