@@ -1,3 +1,2 @@
-Poetry:Search
-
-The webpage consists of a self composed poetry with an image.The file possess a navigation bar with two tabs: home and contact.The contact page is linked to the webpage.The contact page includes links of various social media platforms.
+## Poetries
+The project contains a main page which is linked to other pages which consists of **self composed poetries.**
